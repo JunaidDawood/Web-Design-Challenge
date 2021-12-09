@@ -1,5 +1,13 @@
 # Web-Design-Challenge
 
-Screenshot of the website design:
+Some Screenshot of the website design:
+
+## Home page
+
 
 <img src="Resources/assets/images/design.png" width=100%>
+
+## Data page
+
+
+<img src="Resources/assets/images/data.png" width=100%>
