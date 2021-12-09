@@ -1,5 +1,9 @@
 # Web-Design-Challenge
 
+## Deployment in github pages
+
+* [Web design](https://junaiddawood.github.io/Web-Design-Challenge/)
+
 Some Screenshot of the website design:
 
 ## Home page
